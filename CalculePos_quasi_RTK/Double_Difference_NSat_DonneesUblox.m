@@ -71,7 +71,7 @@ Masque = 20;
 
 % Choix des Double différences à retirer manuellement (0 si retiré)
 
-Choix_DD = [1 1 0 1 1 1 1 1 1 1];
+Choix_DD = [1 1 1 1 1 1 1 1 1 1];
 
 % Longueur d'onde
 
